@@ -7,7 +7,7 @@
 
 ## sub folders of project directory 
 ## config folder
-![image](https://user-images.githubusercontent.com/30105909/110017741-8d819b80-7d4c-11eb-813d-9013f2e30eea.png)
+![image](https://user-images.githubusercontent.com/30105909/110017997-d6d1eb00-7d4c-11eb-8192-6a6d589863c8.png)
 
 ## constant folder
 ![image](https://user-images.githubusercontent.com/30105909/110012093-27921580-7d46-11eb-9962-a8a2784ae03a.png)
