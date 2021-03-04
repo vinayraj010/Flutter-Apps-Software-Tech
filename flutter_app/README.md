@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/30105909/110012510-98d1c880-7d46-11eb-9cc1-5b10c177b6d2.png)
 
 ## utils folder
-![image](https://user-images.githubusercontent.com/30105909/110016506-1ef00e00-7d4b-11eb-8667-0fb607b05a4a.png)
+![image](https://user-images.githubusercontent.com/30105909/110017491-472c3c80-7d4c-11eb-8b64-44824efc0871.png)
 
 ## widgets folder
 ![image](https://user-images.githubusercontent.com/30105909/110016699-5959ab00-7d4b-11eb-87a0-6f6c64048b1b.png)
