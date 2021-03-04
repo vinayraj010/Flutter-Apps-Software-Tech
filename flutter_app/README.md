@@ -1,4 +1,4 @@
-# flutter_app_folder_structure
+# folder & file structure for large scale flutter applications
 
 ## project structure directory 
 
