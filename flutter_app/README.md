@@ -17,3 +17,12 @@
 
 ## modules folder
 ![image](https://user-images.githubusercontent.com/30105909/110012510-98d1c880-7d46-11eb-9cc1-5b10c177b6d2.png)
+
+## utils folder
+![image](https://user-images.githubusercontent.com/30105909/110016506-1ef00e00-7d4b-11eb-8667-0fb607b05a4a.png)
+
+## widgets folder
+![image](https://user-images.githubusercontent.com/30105909/110016699-5959ab00-7d4b-11eb-87a0-6f6c64048b1b.png)
+
+## pubspec.yaml with respect to assets folder
+![image](https://user-images.githubusercontent.com/30105909/110016957-ad648f80-7d4b-11eb-8713-a27373013062.png)
