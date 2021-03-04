@@ -1,16 +1,7 @@
-# flutter_app
+# flutter_app_folder_structure
 
-A new Flutter application.
+project directory looks like this
+![image](https://user-images.githubusercontent.com/30105909/110011418-6d9aa980-7d45-11eb-97b6-90d3a58eddb6.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## config folder
+![image](https://user-images.githubusercontent.com/30105909/110011705-c0746100-7d45-11eb-80db-79acb5888002.png)
